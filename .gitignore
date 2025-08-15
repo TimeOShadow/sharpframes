@@ -6,4 +6,5 @@ venv/
 .idea/
 *.log
 clothing_out*/
-clothing2*/
+clothing2*/get-pip.py
+sharpframes_gui.py
