@@ -1,10 +1,31 @@
+# Python
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+*.log
+
+# Virtual env
 .venv/
 venv/
+.env
+
+# Editors/OS
 .vscode/
 .idea/
-*.log
+.DS_Store
+Thumbs.db
+
+# Build/packaging
+build/
+dist/
+*.spec
+
+# Outputs (do not upload generated frames)
+*.dng
+*_out/
 clothing_out*/
-clothing2*/get-pip.py
-sharpframes_gui.py
+clothing2*/
+out*/
+output*/
+frames*/
