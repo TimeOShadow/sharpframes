@@ -1,0 +1,2 @@
+sharpframes: CLI + Qt GUI
+
